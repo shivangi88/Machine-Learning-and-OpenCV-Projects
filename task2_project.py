@@ -71,6 +71,7 @@ def drawlines(img1,img2,lines,points1,points2):
 epiLine1 = cv2.computeCorrespondEpilines(points2.reshape(-1,1,2), 2,F)
 epiLine1 = epiLine1.reshape(-1,3)
 img5,img6 = drawlines(img1,img2,epiLine1,points1,points2)
+
 # Find epilines for points in left image and draw lines on right image
 epiLine2 = cv2.computeCorrespondEpilines(points1.reshape(-1,1,2), 1,F)
 epiLine2 = epiLine2.reshape(-1,3)
