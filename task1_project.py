@@ -9,10 +9,6 @@ https://docs.opencv.org/3.0-beta/modules/features2d/doc/drawing_function_of_keyp
 1.5:- https://github.com/cbuntain/stitcher/blob/master/alignImagesRansac.py
 """
 
-UBIT = 'shivangi'; 
-import numpy as np; 
-np.random.seed(sum([ord(c) for c in UBIT]))
-
 import cv2
 import numpy as np
 #Reading Images
