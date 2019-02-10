@@ -5,9 +5,6 @@ References:-
 2.https://opencv-python-tutroals.readthedocs.io/en/latest/py_tutorials/py_calib3d/py_epipolar_geometry/py_epipolar_geometry.html
 3.https://docs.opencv.org/2.4.1/modules/calib3d/doc/camera_calibration_and_3d_reconstruction.html#stereobm-stereobm
 """
-UBIT = 'shivangi'; 
-import numpy as np; 
-np.random.seed(sum([ord(c) for c in UBIT]))
 
 import cv2
 import numpy as np
