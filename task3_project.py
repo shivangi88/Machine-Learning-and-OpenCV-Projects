@@ -1,9 +1,5 @@
-UBIT = 'shivangi'; 
-import numpy as np; 
-np.random.seed(sum([ord(c) for c in UBIT]))
-"""
-Created on Thu Nov  1 15:39:33 2018
 
+"""
 @author: shivangi
 """
 
