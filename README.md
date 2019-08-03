@@ -1,5 +1,6 @@
 # Projects
-1.MultiLayer Perceptron Neural Network using Tensorflow in Python:-
+  ## Machine Learning Projects
+   ## MultiLayer Perceptron Neural Network using Tensorflow in Python:-
     Implemented a Multilayer Perceptron Neural Network on MNIST (Modified National Institute of Standards and Technology) handwritten digit
     dataset and evaluate its performance in classifying the handwritten digits. Used the same Neural Network on a Face dataset and
     evaluate its performance against a deep neural network and a convolutional neural network.
