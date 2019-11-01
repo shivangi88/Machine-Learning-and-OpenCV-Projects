@@ -1,4 +1,4 @@
-# Projects
+# Machine Learning and OpenCV Projects
   ## Machine Learning Projects
    ## MultiLayer Perceptron Neural Network using Tensorflow in Python:-
     Implemented a Multilayer Perceptron Neural Network on MNIST (Modified National Institute of Standards and Technology) handwritten digit
