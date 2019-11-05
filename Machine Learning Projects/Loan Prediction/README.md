@@ -1,6 +1,6 @@
 # Loan Prediction
 
-One Paragraph of project description goes here
+Developed Neural Network to predict loan status
 
 ## Getting Started
 
