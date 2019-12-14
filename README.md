@@ -27,7 +27,7 @@
 
    ## Panorama Stitching using OpenCV in Python:-
     The two images are taken from same camera but differet angles and goal is to stitch both images to form a panorama.
-    Sift operator is used to find keypoints in both images. KNN Matcher is sued to match these keypoints. 
+    Sift operator is used to find keypoints in both images. KNN Matcher is used to match these keypoints. 
     OpenCV method findHomography() returns the homographic matrix. Inlier points are matched using the homographic matrix.
     OpenCV method warpPerspective() and perspectiveTransform() are used to perform Affine transformation on the images to create panorama.
 
